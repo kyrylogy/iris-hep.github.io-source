@@ -21,6 +21,10 @@ mentors:
   - Federica Legger (INFN)
 proposal: /assets/pdf/fellows-2022/206-proposal-Kyrylo-Meliushko.pdf
 presentations:
+  - title: "Final Presentation - Implementation of CI/CD Automation and Orchestration in CMS Monitoring Kubernetes Clusters"
+    date: "September 28, 2022"
+    url: https://indico.cern.ch/event/1195272/contributions/5064318/attachments/2518077/4329507/KyryloMeliushko-2.pdf
+    meetingurl: https://indico.cern.ch/event/1195272/
 current_status:
 github-username: kyrylogy
 ---
